@@ -1,0 +1,5 @@
+2023/05/30 22:41:11 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1685457671399503000}
+2023/05/30 22:43:45 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685457825293193000}
+2023/05/30 22:48:17 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685458097889460000}
+2023/05/30 22:52:35 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685458355326875000}
+2023/06/01 00:27:28 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685550448448933000}

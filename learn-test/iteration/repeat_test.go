@@ -6,7 +6,7 @@ import "testing"
 *
 更多的 TDD 练习
 学习了 for 循环
-学习了如何编写基准测试
+学习了如何编写基准测试 (go test -bench=.)
 */
 func TestRepeat(t *testing.T) {
 	assert := func(t *testing.T, repeated string, expected string) {

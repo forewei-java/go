@@ -10,6 +10,7 @@ import "testing"
 */
 func TestRepeat(t *testing.T) {
 	assert := func(t *testing.T, repeated string, expected string) {
+		t.Helper()
 		if repeated != expected {
 			t.Errorf("expected '%q' but got '%q'", expected, repeated)
 		}

@@ -3,3 +3,9 @@
 2023/05/30 22:48:17 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685458097889460000}
 2023/05/30 22:52:35 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685458355326875000}
 2023/06/01 00:27:28 {"callers":["/Users/forewei/obj/project/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1685550448448933000}
+2023/06/10 13:43:31 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686375811480266000}
+2023/06/10 13:51:01 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686376261440635000}
+2023/06/10 14:32:26 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686378746833882000}
+2023/06/10 14:36:37 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686378997529143000}
+2023/06/10 14:40:45 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686379245503057000}
+2023/06/10 14:43:32 {"callers":["/Users/forewei/GolandProjects/go/blog-service/main.go: 26 main.init.0"],"level":"info","message":"eddycjy: go/forewei-java/blog-service","time":1686379412530399000}

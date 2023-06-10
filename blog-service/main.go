@@ -30,6 +30,10 @@ func init() {
 	global.Logger.Infof("%s: go/forewei-java/%s", "eddycjy", "blog-service")
 }
 
+// @title 博客系统
+// @version 1.0
+// @description Go 语言编程之旅：一起用 Go 做项目
+// @termsOfService
 func main() {
 	gin.SetMode(global.ServerSetting.RunMode)
 	router := routers.NewRouter()

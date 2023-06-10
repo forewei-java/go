@@ -8,6 +8,12 @@ import (
 
 type Article struct{}
 
+// article.go
+type ArticleSwagger struct {
+	List  []*Article
+	Pager *app.Pager
+}
+
 func NewArticle() Article {
 	return Article{}
 }
